@@ -75,11 +75,3 @@ Exemple création :
 # Exécuter "ls -l" tous les jours à 12h30
 ./tadmor -c -m 30 -H 12 ls -l
 ```
-
-## Tests
-
-```bash
-./test.sh
-```
-
-Projet de Système d'Exploitation - Université Paris Cité - Année 2025-2026
